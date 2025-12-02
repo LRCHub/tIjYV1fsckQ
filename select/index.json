@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "カザキリ",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2025-12-02T12:23:56.655819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カザキリ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/01_カザキリ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カザキリ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_カザキリ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カザキリ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_カザキリ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カザキリ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/04_カザキリ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kazakiri (カザキリ)",
+      "artist": "yanaginagi (やなぎなぎ)",
+      "has_synced": true,
+      "path": "select/05_Kazakiri_(カザキリ)_yanaginagi_(やなぎなぎ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カザキリ",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_カザキリ_やなぎなぎ.txt"
+    }
+  ]
+}
